@@ -2,7 +2,7 @@
 
 > Smart contract security auditor & security engineer.
 
-Auditing **Solana**, **CosmWasm**, and **Cosmos SDK** systems since 2021 across 119+ private engagements with **[Oak Security](https://oaksecurity.io)** and **[SCV Security](https://scv.services)** — covering everything from core blockchain modules and consensus-layer upgrades to whitepaper and technical implementation reviews.
+Auditing **Solana**, **CosmWasm**, and **Cosmos SDK** systems since 2021 across 120+ private engagements with **[Oak Security](https://oaksecurity.io)** and **[SCV Security](https://scv.services)** — covering everything from core blockchain modules and consensus-layer upgrades to whitepaper and technical implementation reviews.
 
 X: [@contracthaxor](https://x.com/contracthaxor) · Telegram: [@contracthaxor](https://t.me/contracthaxor)
 
